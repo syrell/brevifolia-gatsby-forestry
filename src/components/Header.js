@@ -16,7 +16,7 @@ export default function Header(props) {
         <Link to="/">
           <h1>{props.title}</h1>
         </Link>
-        <h3>Test</h3>
+        <h3>Test thing</h3>
         <div>
           <h1>
             <Link
