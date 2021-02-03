@@ -4,16 +4,16 @@ title: Sunflower Sutra
 author: Allen Ginsberg
 hero_image: "/content/images/sonja-punz-N47B_zibNGo-unsplash.jpg"
 organize_sections:
-- template: site-info
-  title: ''
-  description: ''
-  repository_url: ''
 - template: blog-post
   date: '2021-02-03T23:02:57Z'
   hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
   author: Robert Thoreau
   title: ''
   organize_sections: []
+- template: site-info
+  title: ''
+  description: ''
+  repository_url: ''
 - template: info-page
   background_color: "#B1BCBC"
   description: ''
