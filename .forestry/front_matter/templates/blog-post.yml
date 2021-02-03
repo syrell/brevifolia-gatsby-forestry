@@ -38,7 +38,10 @@ fields:
 - name: organize_sections
   type: blocks
   label: Organize sections
-  template_types: []
+  template_types:
+  - site-info
+  - blog-post
+  - info-page
   config:
     min: 
     max: 
